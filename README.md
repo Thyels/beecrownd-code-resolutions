@@ -1,0 +1,1 @@
+- Neste projeto, farei um repositório de resolução de problemas da plataforma Beecrownd (https://www.beecrowd.com.br/judge/pt). No qual ficarão expostos meus códigos, com o intuito de registrar minha evolução no estudo de programação, bem como ajudar outras pessoas que necessitarem de auxílio na resolução das atividades. 
