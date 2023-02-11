@@ -43,6 +43,5 @@ switch(ddd){
         printf("DDD nao cadastrado\n");
     break;
 }
-
 return 0;
 }
